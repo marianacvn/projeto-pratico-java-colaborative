@@ -1,0 +1,10 @@
+Questão 6:
+(sequência de V ou F)
+a) V
+b.1)F, a subclasse não pode alterar o encapsulamento do método da sua superclasse.
+b.2)F, a subclasse não pode alterar a assinatura do método definido pela superclasse.
+c.1)F, a subclasse não pode alterar o encapsulamento do método da sua superclasse.
+c.2)F,  a subclasse não pode alterar a assinatura do método definido pela superclasse.
+d.1)F, a subclasse não pode alterar o encapsulamento do método da sua superclasse.
+d.2)F, a subclasse não pode alterar a assinatura do método definido pela superclasse.
+e) F, pois o método dobraA() é estático porém o atributo não é. 

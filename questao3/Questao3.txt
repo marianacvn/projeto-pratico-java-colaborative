@@ -1,0 +1,10 @@
+Questão 3:
+(Sequência de V ou F)
+a) V
+b) V
+c) V
+d) V
+e) V
+f) F, as classes filhas abstratas elas não são obrigadas a implementar o método, mas as classes filhas concretas sim.  
+g) F, o método abstrato definido pela superclasse não pode ser alterado o seu encapsulamento pela classe que está herdando. 
+ 

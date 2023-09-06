@@ -1,0 +1,41 @@
+Questao 4:
+
+Questão 4.1:
+Alternativa: letra "D', no diagrama de classe, a relação de multiplicidade entre departamento e funcionario representado por * significa que não ter ao menos um funcionario, mas indica que pode haver muitos funcionarios da classe envolvidos no relacionamento.
+
+Questão 4.2:
+Alternativa: letra "D"
+
+Questão 4.3:
+(sequência de V ou F)
+a) F, não pode ser objeto, pois a classe funcionário é abstrata.
+b) F, pois funcionário não é uma instância de professor.
+c) F, pois f só teria acesso aos seus atributos e não os atributos da sua subclasse. 
+d)V
+e)V
+f)F, pois calcular salário é um método abstrato e não é estático, precisaria instânciar o objeto professor.
+g)F, pois para ser polimorfismo de sobreposição, neste caso, o App não herda de Funcionário, então não poderia ser de sobreposição.
+h)F, só poderia ser criado vários professores porque funcionário é uma classe abstrata.
+i) V
+j) F, a classe funcionário é abstrata, por isso não pode ser instânciada.
+
+Questão 4.4:
+a) F, pois métodos abstratos não podem ser implementados em uma classe abstrata.
+b) V
+c.1) F, pois na classe funcionário é apenas implementação do método.
+c.2) V
+
+Questão 4.5:
+Descrever sua resposta
+Discordo, pois se o intuito era criar diversos professores, desta maneira ele está apenas alterando o nome do objeto professor instanciado e adicionando o mesmo duas vezes na lista. A melhor alternativa era criar outra instância/referência de professor para "Maria".
+
+Questão 4.6:
+a)Sim, pois ele foi declarado como um objeto anônimo e implementado o método calcularSalario(), mesmo sendo uma classe abstrata. Sim, é possível atribuir/modificar o seu nome. 
+Descrever sua resposta
+
+b)
+Saída1: 0.0
+Saída2: 0.0
+Saída3: 1000.0
+Saída4: 1000.0
+ 

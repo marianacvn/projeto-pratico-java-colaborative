@@ -1,0 +1,7 @@
+Questão 5:
+(sequência de V ou F)
+a) F, pois a lista de argumentos dos métodos são iguais.
+b) V
+c) V
+d) V
+e) F, pois funcionario é uma classe abstrata.

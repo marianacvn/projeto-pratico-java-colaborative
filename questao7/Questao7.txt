@@ -1,0 +1,32 @@
+Questão 7:
+a)
+Saída1: 0
+Saída2: 0.0
+Saída3: null
+Saída4: 0.0
+ 
+b)
+Saída1: 5
+Saída2: 5
+Saída3: 5
+Saída4: 2
+ 
+c)
+Saída1: saida.A@4EC6A292
+Saída2: 2
+
+d)
+Saída1: valor
+Saída2: atr1=valor, atr2=null
+
+e)
+Saída1: não executa pois existem dois erros no código, o obj A e o construtor de B não podem ser referenciados em um contexto estático.
+Saída2: não executa pois existem dois erros no código, o obj A e o construtor de B não podem ser referenciados em um contexto estático.
+
+f)
+Saída1: 5
+Saída2: 5
+Saída3: 5
+Saída4: 4
+Saída5: 4
+Saída6: 5
